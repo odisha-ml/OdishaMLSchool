@@ -18,12 +18,33 @@ inexpensive micro fluidic automation system.
 
 Modular development of the custom-built lab-on-a-chip system. Few Products of interests:
 
-3.1.1. LOC Devices for Point-of-care testing i.e. Covid-19/Malaria antigen Test kit, Digital dipstick.
-3.1.2. Paper-based micro-fluidic devices for various Enzyme linked Immunoassays test kits.
-3.1.3. Dielectrophoresis based LOC for cell separation, sorting, rotation, and manipulation of organic & inorganic
+* LOC Devices for Point-of-care testing i.e. Covid-19/Malaria antigen Test kit, Digital dipstick.
+* Paper-based micro-fluidic devices for various Enzyme linked Immunoassays test kits.
+* Dielectrophoresis based LOC for cell separation, sorting, rotation, and manipulation of organic & inorganic
 particles (ex. Microplastic detection, sampling, and filtration).
-3.1.4. Organ-on-chip (OOC) for simulation, analysis of the activities, mechanics, and physiological response of
+* Organ-on-chip (OOC) for simulation, analysis of the activities, mechanics, and physiological response of
 various human organs such as lungs, kidneys, liver, guts, heart, etc.
-3.1.5.The implementation of AI & ML in creating robust and intelligent LOC systems for industrial application.
-3.1.6. Design, development, and commercial production of an AI enabled smart, low cost micro-fluidic
+* The implementation of AI & ML in creating robust and intelligent LOC systems for industrial application.
+* Design, development, and commercial production of an AI enabled smart, low cost micro-fluidic
 automation kit (pump, valve, controller etc.)
+
+## Service
+
+* Rapid prototyping service in design of custom-built, user specific LOC systems for external clients.
+* Training & certification for local technicians, engineers, healthcare workers in research, development,
+prototyping, & manufacturing of intelligent LOC systems.
+* Internship, research, & job opportunities for local/international students & build cross-cultural knowledge hubs.
+* To Boost & empower the local healthcare, food, hygiene, and medical research independent and self-reliant.
+
+## AI-ML Application
+
+* Data need to be gathered & sorted on demographic distribution of primary, secondary, tertiary level health
+hazards, sickness, & diseases.
+* At the same time, research to be conducted on automation programming to handle Micro fluidic based LOC
+systems for easy usages at home & medical facilities.
+
+## Potential clients
+
+* B2B: Pharmaceutical companies, Medical diagnostic labs, Healthcare facilities, R&D centers, and universities
+with on-demand customized products.
+* B2C: For individual customers as a trademark in-house product (after regulation check and approval).
