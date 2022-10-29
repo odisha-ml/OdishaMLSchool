@@ -1,7 +1,7 @@
 <h1 align="center"> Live stream Ad integration 
  </h1>
 
-## Mentor: Shantipriya and Aditya
+## Mentor: Dr. Shantipriya Parida and Aditya
 
 ## Description: Enabling Live Ads in YouTube just like Television through obs plugins
 
