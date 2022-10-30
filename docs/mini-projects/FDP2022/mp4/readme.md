@@ -73,7 +73,13 @@ The Odia dialect dataset will be helpful for many NLP researchers for research, 
 
 8. Release the dataset (Future work)
 
+## References
 
+[1] Parida, S., ú Villatoro-Tello, E., Kumar, S., Motlicek, P., & Zhan, Q. (2020). Idiap Submission to Swiss-German Language Detection Shared Task. In Proceedings of the 5th Swiss Text Analytics Conference (SwissText) & 16th Conference on Natural Language Processing (KONVENS).
+
+[2] Parida, S., Villatoro-Tello, E., Kumar, S., Fabien, M., & Motlicek, P. (2020, December). Detection of Similar Languages and Dialects Using Deep Supervised Autoencoder. In Proceedings of the 17th International Conference on Natural Language Processing (ICON) (pp. 362-367).
+
+[3] Sahoo, S. K., Mishra, B. K., Parida, S., Dash, S. R., Besra, J. N., & Tello, E. V. (2021, December). Automatic Dialect Detection for Low Resource Santali Language. In 2021 19th OITS International Conference on Information Technology (OCIT) (pp. 234-238). IEEE.
 
 
 
