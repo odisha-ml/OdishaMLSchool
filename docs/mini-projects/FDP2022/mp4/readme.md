@@ -39,20 +39,20 @@ The Odia dialect dataset will be helpful for many NLP researchers for research, 
 ## Proposed Approach
 
 1. Study the Odia dialects and find the major dialects such as:
-   Sambalpuri Odia,  
-   Ganjami Odia,
-   Cuttacki Odia,
-   Desiya Odia,
-   Baleswari Odia
+   * Sambalpuri Odia,  
+   * Ganjami Odia,
+   * Cuttacki Odia,
+   * Desiya Odia,
+   * Baleswari Odia
 
 2. Collect monolingual data from various sources such as website, Books, Magazines, News paper using different computing techniques such as data scraping, OCR. The number of sentences required from each dialect is 1,000 approx. 
 
-3. Preprocess the data to remove unnecessary noise, filter the data, verify by human native speaker experts.
-   Noise patterns 
-   Duplications 
-   Stop word 
-   Spelling errors 
-   Mixed form usage 
+3. Preprocess the data to remove unnecessary noise, filter the data, verify by human native speaker experts:
+   * Noise patterns, 
+   * Duplications, 
+   * Stop word, 
+   * Spelling errors, 
+   * Mixed form usage 
  
 4. Filter categories 
  
