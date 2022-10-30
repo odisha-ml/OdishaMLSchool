@@ -1,5 +1,7 @@
 <h1 align="center"> Project – Audio keyword spotting </h1>
 
+Mentor: Ravi Shankar Prasad
+
 ## Problem Statement
 
 The problem of audio keyword spotting (AKS), also known as spoken term detection (STD), is basically a search problem in the acoustic domain. Several speech applications, developed to integrate into our daily lives, utilize the audio keyword spotting module to interact with humans and produce desired response. The keyword spotting requires searching and locating a particular spoken term in a relatively larger space of audio signals. The problem also provides efficient measures for context-based indexing of speech signals. 
