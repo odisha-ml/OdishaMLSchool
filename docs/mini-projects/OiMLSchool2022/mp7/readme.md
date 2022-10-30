@@ -2,10 +2,12 @@
 <h1 align="center">Recommendation System (RecSys)</h1>
 
 <p align="center">
-  <img width="500" height="300" src="https://raw.githubusercontent.com/odisha-ml/odisha-ml.github.io/master/docs/mini-projects/mp7/misc/RecSys.jpg" />
+  <img width="500" height="300" src="https://raw.githubusercontent.com/odisha-ml/odisha-ml.github.io/master/docs/mini-projects/OiMLSchool2022/mp7/misc/RecSys.jpg" />
 </p>
 
 </br>
+
+Mentor: Mr. Sambit Sekhar
 
 RecSys (Recommender Systems) has become an important component in today's digital world.
 It’s a vital component of many industries providing e-services ranging from news services(BBC), social media(facebook, twitter, tiktok etc) to online video streaming platforms(netflix, youtube etc).
@@ -81,7 +83,7 @@ In this Project, we need to develop News recommendations based on data from prev
 <h4 align="center">News Recommendation System Workflow</h4>
 
 <p align="center">
-  <img width="600" height="300" src="https://raw.githubusercontent.com/odisha-ml/odisha-ml.github.io/master/docs/mini-projects/mp7/misc/Workflow.jpg" />
+  <img width="600" height="300" src="https://raw.githubusercontent.com/odisha-ml/odisha-ml.github.io/master/docs/mini-projects/OiMLSchool2022/mp7/misc/Workflow.jpg" />
 </p>
 
 
