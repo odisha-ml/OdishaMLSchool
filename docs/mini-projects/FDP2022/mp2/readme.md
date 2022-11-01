@@ -24,6 +24,7 @@ First step, Aspect term extraction refers to identifying and retrieving the enti
 The second step i.e. the sentiment classification deals with classifying various aspects into their polarity categories (positive, negative and neutral).
 
 **Example For English**
+
 - Review: The food is good but the location is bad.
 - Aspect: Term Extraction “food”, “location”
 - Sentiment classification: food-pos, location-neg 
@@ -35,6 +36,7 @@ The second step i.e. the sentiment classification deals with classifying various
 - Sentiment classification: बैटरी लाइफ-pos
 
 **Steps**
+
 1. Find dataset for sentiment analysis.
 2. Find Aspect Term Extraction
 3. classify Sentiment positive, negative, neutral
@@ -42,6 +44,7 @@ The second step i.e. the sentiment classification deals with classifying various
 For more detail study, you can refer this given link: https://monkeylearn.com/sentiment-analysis/
 
 To develop sentiment analysis:
+
 1.	Need dataset for sentiment analysis. (Take any hindi product review dataset)
 2.	Train model on train datset
 3.	Test model on test data.
