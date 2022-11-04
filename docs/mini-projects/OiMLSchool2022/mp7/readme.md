@@ -8,6 +8,8 @@
 </br>
 
 Mentor: Mr. Sambit Sekhar
+Project: Recommender Systems
+
 
 RecSys (Recommender Systems) has become an important component in today's digital world.
 It’s a vital component of many industries providing e-services ranging from news services(BBC), social media(facebook, twitter, tiktok etc) to online video streaming platforms(netflix, youtube etc).
